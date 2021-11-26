@@ -7,6 +7,7 @@ For Virtualenv:
     python3/python/py -m venv env
 
 Activate env:
+
     source env/bin/activate (Linux)
     
      .\env\Scripts\activate (Windows)
